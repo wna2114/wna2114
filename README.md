@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=8b5cf6&style=for-the-badge)
 ![University of Toronto](https://img.shields.io/badge/University_of_Toronto-1E3765?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 ![Year](https://img.shields.io/badge/Year-2-ec4899?style=for-the-badge)
 
@@ -19,19 +18,6 @@
 ---
 
 ## 👩🏽‍💻 About Me
-
-```python
-class Wania:
-    def __init__(self):
-        self.name     = "Wania Khan"
-        self.school   = "University of Toronto"
-        self.year     = 2
-        self.program  = {"specialist": "Computer Science", "major": "Statistics"}
-        self.interests    = ["Machine Learning", "Full Stack Development", "Loki 🦜"]
-
-    def current_goal(self):
-        return ""
-```
 
 I'm a second-year student at the **University of Toronto** pursuing a **Computer Science Specialist** and a **Statistics Major**. The combination is my favourite thing about my degree: CS teaches me how to build it, and statistics teaches me how to tell whether it actually works.
 
@@ -102,35 +88,6 @@ I like owning a project end to end: designing the interface, building the backen
 
 > ✏️ *Edit this list to match what you actually use. Badges are easy to add or remove at [shields.io](https://shields.io).*
 
----
-
-## 🦜 Meet Loki
-
-<div align="center">
-
-```text
-        ___
-     .-'   `-.
-    /  (o) (o) \     Loki says:
-   |     /\     |    "Have you committed your
-    \   '--'   /      changes? Also, snacks?"
-     '-._  _.-'
-      _/ `'` \_
-     (  \___/  )
-      `--^---^--`
-```
-
-</div>
-
-Loki is my pet bird, and easily the best part of my day. Coding sessions are better with a small, opinionated feathered roommate who has strong views on snacks and zero respect for my deadlines. He's the reason I take breaks, laugh at my own debugging, and remember there's more to life than my terminal.
-
-<!-- 📸 Add a photo of Loki! Put an image in the repo and uncomment:
-<div align="center">
-  <img src="./loki.jpg" alt="Loki" width="300" style="border-radius: 16px;" />
-</div>
--->
-
----
 
 ## 📊 GitHub Stats
 
@@ -147,38 +104,6 @@ Loki is my pet bird, and easily the best part of my day. Coding sessions are bet
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Swap these for your real projects and keep the layout! -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🔮 **Project One** | One-line description of what it does and why it's cool | `Python` `PyTorch` |
-| 🌐 **Project Two** | One-line description of what it does and why it's cool | `React` `Node.js` `PostgreSQL` |
-| 📈 **Project Three** | One-line description of what it does and why it's cool | `Python` `Pandas` `scikit-learn` |
-
----
-
-## 🎯 Currently
-
-- 🔭 Going deeper into **machine learning**, with the statistics to back it up
-- 🌱 Sharpening my **full stack** skills by building real projects
-- 📚 Working through my second year of CS and Stats at UofT
-- 🦜 Keeping Loki's snack supply well stocked
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Needs a one-time GitHub Action: see https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -188,8 +113,6 @@ Loki is my pet bird, and easily the best part of my day. Coding sessions are bet
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
 
 <br/>
-
-*"Fun fact: Loki can't code, but he's a great rubber duck."* 🦜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
