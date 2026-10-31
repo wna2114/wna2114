@@ -1,18 +1,6 @@
 <!-- Replace every YOUR_USERNAME with your GitHub username -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Wania%20Khan&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=CS%20%C2%B7%20Statistics%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=58" alt="Wania Khan banner" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Wania+%F0%9F%91%8B;2nd-year+@+University+of+Toronto+%F0%9F%8E%93;CS+Specialist+%2B+Statistics+Major+%F0%9F%93%8A;Teaching+machines+to+learn+%F0%9F%A4%96;Building+full-stack+things+people+can+use+%F0%9F%9A%80;Bird+mom+to+Loki+%F0%9F%A6%9C" alt="Typing animation" />
-</a>
-
-<br/>
-
-![University of Toronto](https://img.shields.io/badge/University_of_Toronto-1E3765?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-![Year](https://img.shields.io/badge/Year-2-ec4899?style=for-the-badge)
-
+<!-- Replace every YOUR_USERNAME with your GitHub username --> 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&animation=twinkling" alt="Banner" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=56&duration=2500&pause=100000&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=Wania+Khan" alt="Wania Khan" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Wania+%F0%9F%91%8B;2nd-year+@+University+of+Toronto+%F0%9F%8E%93;CS+Specialist+%2B+Statistics+Major+%F0%9F%93%8A;Teaching+machines+to+learn+%F0%9F%A4%96;Building+full-stack+things+people+can+use+%F0%9F%9A%80;Bird+mom+to+Loki+%F0%9F%A6%9C" alt="Typing animation" /> </a> <br/>
 </div>
 
 ---
